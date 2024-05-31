@@ -1,0 +1,8 @@
+job_category,num_employees,max_salary,min_salary
+"Data Science and Research",3014,450.00,16.00
+"Data Analysis",1457,430.97,15.00
+"Data Engineering",2260,385.00,18.00
+"Data Architecture and Modeling",259,376.08,52.50
+"Data Quality and Operations",55,289.12,23.75
+"Data Management and Strategy",61,250.00,46.40
+"Cloud and Database",5,190.00,115.00

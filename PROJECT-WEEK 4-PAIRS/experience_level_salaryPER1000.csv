@@ -1,0 +1,5 @@
+experience_level,avg_salary_usd,min_salary_usd,max_salary_usd,num_employees
+Executive,189.46,15.00,416.00,281
+Senior,162.36,18.38,412.00,6709
+Mid-level,117.52,15.00,450.00,1869
+Entry-level,88.53,15.00,281.70,496
